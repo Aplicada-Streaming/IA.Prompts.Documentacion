@@ -26,3 +26,8 @@ Revisar todos los documentos de este repositorio `/IA/IA.Prompts` y arreglar las
 1. Planifica y arma el plan acorde s los objetivos propuestos, muestra tu plan y espera a que te confirme.
 
 
+---
+
+# Reglas
+- No inventar información.
+- Toda afirmación deberá estar respaldada por evidencias verificables.

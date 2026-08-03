@@ -23,3 +23,9 @@ Ajustar prompt `/IA/IA.Prompts/Tool-Prompts/Seguridad/Auditoria-Seguridad.md` qu
 # Solicitudes
 
 1. Planifica acorde a los objetivos ajustando si es necesario (Rules, RuleSets, Profiles requeridos), espera mi confirmación
+
+---
+
+# Reglas
+- No inventar información.
+- Toda afirmación deberá estar respaldada por evidencias verificables.

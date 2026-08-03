@@ -26,3 +26,9 @@ clave: xxxxx
 # Solicitudes
 
 1. Lee y ajusta este prompt: `/path/Auditoria-Seguridad.md` para que cumpla los objetivos dados. Determina y generá un profile,rules,rulesets necesarios, especifico y optimizado para este tipo de tarea, Tene en cuenta tambien usar o crear esas profiles , rules, rulesets  tambien para el tipo de documento tecnico acorde  a esta tarea
+
+---
+
+# Reglas
+- No inventar información.
+- Toda afirmación deberá estar respaldada por evidencias verificables.

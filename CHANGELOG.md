@@ -30,6 +30,10 @@ y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
   secciones para mejorar la legibilidad.
 - `PROMPTs/Creacion-Prompt.md`: se anonimizan el dominio, las credenciales y las
   rutas de ejemplo (dominio, usuario y clave sustituidos por marcadores).
+- `PROMPTs/Creacion-Prompt.md`, `PROMPTs/Refactorizacion.md` y
+  `PROMPTs/Refactorizando-Repo-Nombre.md`: se añade una sección `Reglas` común
+  que exige no inventar información y respaldar toda afirmación con evidencias
+  verificables.
 
 ## [0.1.0] - 2026-07-16
 
