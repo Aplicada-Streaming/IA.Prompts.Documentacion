@@ -22,9 +22,20 @@ y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
 - Carpeta `Tareas/` con `Tareas/Mis-Tareas.md`, listado de tareas pendientes
   sobre la detección de derivación de agentes durante las etapas de SDD y de
   codeo.
+- `PROMPTs/03-Crear-Analisis-Relevamientos/Crear-Analisis-Relevamientos.md`:
+  prompt para analizar el tamaño de video y su visualización con VLC sobre un
+  proyecto con múltiples versiones.
+- Carpeta `Analisis/` (con `.gitkeep`) para alojar los análisis y relevamientos
+  generados.
 
 ### Cambiado
 
+- Renombrado del repositorio de `IA.Prompts.Documentos` a
+  `IA.Prompts.Documentacion`; se actualiza el título de `README.md`.
+- Reorganización de `PROMPTs/` en subcarpetas numeradas por tipo de tarea:
+  `Creacion-Prompt.md`, `Refactorizacion.md` y `Refactorizando-Repo-Nombre.md`
+  pasan a `PROMPTs/01-Crear-Prompt/`, y se actualizan sus rutas de invocación al
+  nuevo nombre del repositorio.
 - `PROMPTs/Creacion-Prompt.md`, `PROMPTs/Refactorizacion.md` y
   `PROMPTs/Refactorizando-Repo-Nombre.md`: se añaden separadores `---` entre
   secciones para mejorar la legibilidad.
@@ -34,6 +45,10 @@ y este proyecto adhiere a [Versionado Semántico](https://semver.org/lang/es/).
   `PROMPTs/Refactorizando-Repo-Nombre.md`: se añade una sección `Reglas` común
   que exige no inventar información y respaldar toda afirmación con evidencias
   verificables.
+
+### Eliminado
+
+- Carpeta `Tareas/` y su archivo `Tareas/Mis-Tareas.md`.
 
 ## [0.1.0] - 2026-07-16
 

@@ -1,7 +1,7 @@
 # Crear prompt Auditoría técnica de seguridad
 
 > **Invocación**:
-> - `Lee y ejecuta /IA/IA.Prompts.Documentos/PROMPTs/Creacion-Prompt.md`
+> - `Lee y ejecuta /IA/IA.Prompts.Documentacion/PROMPTs/Creacion-Prompt.md`
 
 ---
 

@@ -1,7 +1,7 @@
 # Crear prompt Refactorizacion
 
 > **Invocación**:
-> - `Lee y ejecuta /IA/IA.Prompts.Documentos/PROMPTs/Refactorizacion.md`
+> - `Lee y ejecuta /IA/IA.Prompts.Documentacion/PROMPTs/Refactorizacion.md`
 
 ---
 

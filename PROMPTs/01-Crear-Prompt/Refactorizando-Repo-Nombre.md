@@ -1,7 +1,7 @@
 # Tool-Prompt — Refactorizando 
 
 > **Invocación**:
-> - `Lee y ejecuta /IA/IA.Prompts.Documentos/PROMPTs/Refactorizando-Repo-Nombre.md`
+> - `Lee y ejecuta /IA/IA.Prompts.Documentacion/PROMPTs/Refactorizando-Repo-Nombre.md`
 
 ---
 
